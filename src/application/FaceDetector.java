@@ -58,6 +58,7 @@ public class FaceDetector implements Runnable {
 	Java2DFrameConverter paintConverter = new Java2DFrameConverter();
 	ArrayList<String> output = new ArrayList<String>();
 
+	//calling fxml
 	@FXML
 	public Label ll;
 	private Exception exception = null;
