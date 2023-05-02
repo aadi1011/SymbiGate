@@ -14,7 +14,7 @@ class Database {
 
 	public final String Database_name = "ghosteye";
 	public final String Database_user = "root";
-	public final String Database_pass = "Fourarms@1234";
+	public final String Database_pass = "*******"; //enter your own MySQL password here
 
 	private Connection con = null;
 
