@@ -1,5 +1,7 @@
 package application;
 
+
+//imports
 import javax.swing.JFrame;
 
 import org.bytedeco.javacpp.*;
