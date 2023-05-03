@@ -47,8 +47,6 @@ This project is an automated attendance system that uses facial recognition tech
 
 If you would like to contribute to this project, please open an issue or a pull request on GitHub. Any contributions, bug reports, bug fixes, documentation improvements, enhancements and ideas are always welcome.
 
-## Output:
-
 
 ## Mentor (Dr. Kalyani Kadam)
 <p align="left">
