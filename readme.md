@@ -10,3 +10,8 @@ This is attendance data acquiring Frame Work using OpenCV
 
 ## Output:
 
+
+## Mentor (Dr. Kalyani Kadam)
+<p align="left">
+  <img src="https://www.linkpicture.com/q/Mam.jpg" type="image">
+</p>
