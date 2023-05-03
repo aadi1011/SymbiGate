@@ -1,7 +1,7 @@
 # SymbiGate
 
-This is attendance data acquiring Frame Work using OpenCV
-
+This is attendance data acquiring Frame Work using OpenCV <br>
+<b>Authors: Aadith Sukumar, Apoorv Gupta, Aniket Singh
 
 <p align="center">
   <img src="https://www.devopsschool.com/blog/wp-content/uploads/2022/03/java_logo_icon_168609.png">
@@ -9,6 +9,7 @@ This is attendance data acquiring Frame Work using OpenCV
 
 
 ## Output:
+  
 
 
 ## Mentor (Dr. Kalyani Kadam)
