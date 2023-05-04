@@ -4,7 +4,7 @@
   <img src="https://www.devopsschool.com/blog/wp-content/uploads/2022/03/java_logo_icon_168609.png">
 </p>
 
-This project is an automated attendance system that uses facial recognition technology to take attendance of students or employees in an organization. The system uses a camera to capture the image of a person's face, and then matches it with the faces in the database. The project is developed using Java and OpenCV. The GUI is made using JavaFX.
+This project is an automated attendance system that uses facial recognition technology to take attendance of students or employees in an organization. The system uses a camera to capture the image of a person's face, and then matches it with the faces in the database. The project is developed using Java and OpenCV. The GUI is made using JavaFX. The backend is managed using MySQL.
 
 ## Features
 
