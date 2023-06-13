@@ -1,4 +1,6 @@
 # Smart Facial Recognition based Attendance System
+<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/aadi1011/SymbiGate">
+
 
 <p align="center">
   <img src="https://www.devopsschool.com/blog/wp-content/uploads/2022/03/java_logo_icon_168609.png">
