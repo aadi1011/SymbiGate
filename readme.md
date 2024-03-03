@@ -28,13 +28,15 @@ This project is an automated attendance system that uses facial recognition tech
 ## Installation
 
 1. Clone the repository using the following command:
-    `git clone https://github.com/aadi1011/SymbiGate.git`
+    ```bash
+   git clone https://github.com/aadi1011/SymbiGate.git
+    ```
 
-2. Import the project into your IDE (Eclipse, IntelliJ, etc.)
+3. Import the project into your IDE (Eclipse, IntelliJ, etc.)
 
-3. Download the OpenCV library and add it to the project's build path.
+4. Download the OpenCV library and add it to the project's build path.
 
-4. Run the project.
+5. Run the project.
 
 ## Usage
 
